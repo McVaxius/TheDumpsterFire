@@ -2,10 +2,9 @@
   {
     "Author": "DhogGPT",
     "Name": "Chocobo Colourized",
-    "InternalName": "ChocoboColourized",
     "Punchline": "Calculate the optimal fruit feeding path to change your chocobo's colour.",
     "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
-    "ApplicableVersion": "any",
+    "Changelog": "**Full Changelog**: https://github.com/McVaxius/ChocoboColourized/compare/v0.0.0.6...v0.0.0.7",
     "Tags": [
       "chocobo",
       "color",
@@ -13,24 +12,24 @@
       "companion",
       "calculator"
     ],
-    "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-    "AssemblyVersion": "0.0.0.9",
-    "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/McVaxius/ChocoboColourized/releases/latest/download/latest.zip",
     "IsHide": false,
+    "InternalName": "ChocoboColourized",
+    "AssemblyVersion": "0.0.0.6",
     "IsTestingExclusive": false,
-    "LoadPriority": 0
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 38,
+    "LastUpdate": 1772309827,
+    "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
+    "SupportsProfiles": true
   },
   {
-    "Author": "DhogGPT",
+    "Author": "McVaxius",
     "Name": "Fren Rider",
-    "InternalName": "FrenRider",
     "Punchline": "Multiboxing follow and automation companion for FFXIV.",
     "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
-    "ApplicableVersion": "any",
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/refs/heads/master/FrenRider/images/icon.png",
+    "Changelog": "",
     "Tags": [
       "multibox",
       "follow",
@@ -38,14 +37,17 @@
       "party",
       "mount"
     ],
-    "RepoUrl": "https://github.com/McVaxius/FrenRider",
-    "AssemblyVersion": "0.0.0.11",
-    "DalamudApiLevel": 14,
-    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
-    "DownloadLinkTesting": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
     "IsHide": false,
+    "InternalName": "FrenRider",
+    "AssemblyVersion": "0.0.0.11",
     "IsTestingExclusive": false,
-    "LoadPriority": 0
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 20,
+    "LastUpdate": 1772392786,
+    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.11/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.11/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
   }
 ]
