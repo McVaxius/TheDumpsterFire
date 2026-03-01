@@ -18,11 +18,12 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 38,
+    "DownloadCount": 40,
     "LastUpdate": 1772309827,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
-    "SupportsProfiles": true
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png"
   },
   {
     "Author": "McVaxius",
@@ -43,7 +44,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 20,
+    "DownloadCount": 22,
     "LastUpdate": 1772392786,
     "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.11/latest.zip",
