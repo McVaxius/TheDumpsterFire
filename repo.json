@@ -1,13 +1,4 @@
-{
-  "Author": "McVaxius",
-  "Name": "Dumpster Fire Plugins",
-  "Punchline": "All McVaxius Dalamud plugins in a single repo.",
-  "Description": "Single Dalamud repository that aggregates every McVaxius plugin for easy sharing.",
-  "RepoUrl": "https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/main/repo.json",
-  "IconUrl": "",
-  "ImageUrls": [],
-  "Changelog": "",
-  "Plugins": [
+[
     {
       "Author": "DhogGPT",
       "Name": "Chocobo Colourized",
@@ -57,5 +48,4 @@
       "IsTestingExclusive": false,
       "LoadPriority": 0
     }
-  ]
-}
+]
