@@ -18,7 +18,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 46,
+    "DownloadCount": 48,
     "LastUpdate": 1772309827,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
@@ -44,7 +44,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 31,
+    "DownloadCount": 35,
     "LastUpdate": 1772414816,
     "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
@@ -52,25 +52,27 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
   },
   {
-    "Author": "McVaxius",
+    "Author": "DhogGPT",
     "Name": "Hello Fellow Human",
-    "InternalName": "HelloFellowHuman",
-    "AssemblyVersion": "0.0.0.4",
+    "Punchline": "Automated proximity-based emote reactions.",
     "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
-    "ApplicableVersion": "any",
+    "Changelog": "",
     "Tags": [
       "emote",
       "automation",
       "rp",
       "proximity"
     ],
+    "IsHide": false,
+    "InternalName": "HelloFellowHuman",
+    "AssemblyVersion": "0.0.0.4",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/refs/heads/main/HelloFellowHuman/images/icon.png",
-    "Punchline": "Automated proximity-based emote reactions.",
-    "AcceptsFeedback": true
+    "LastUpdate": 1772424399,
+    "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png"
   }
 ]
