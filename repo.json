@@ -69,7 +69,7 @@
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/refs/heads/master/HelloFellowHuman/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/refs/heads/main/HelloFellowHuman/images/icon.png",
     "Punchline": "Automated proximity-based emote reactions.",
     "AcceptsFeedback": true
   }
