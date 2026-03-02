@@ -50,5 +50,27 @@
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.11/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
+  },
+  {
+    "Author": "McVaxius",
+    "Name": "Hello Fellow Human",
+    "InternalName": "HelloFellowHuman",
+    "AssemblyVersion": "0.0.0.4",
+    "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "emote",
+      "automation",
+      "rp",
+      "proximity"
+    ],
+    "DalamudApiLevel": 14,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/refs/heads/master/HelloFellowHuman/images/icon.png",
+    "Punchline": "Automated proximity-based emote reactions.",
+    "AcceptsFeedback": true
   }
 ]
