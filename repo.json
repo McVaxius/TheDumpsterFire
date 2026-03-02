@@ -18,7 +18,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 42,
+    "DownloadCount": 46,
     "LastUpdate": 1772309827,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
@@ -26,7 +26,7 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png"
   },
   {
-    "Author": "McVaxius",
+    "Author": "DhogGPT",
     "Name": "Fren Rider",
     "Punchline": "Multiboxing follow and automation companion for FFXIV.",
     "Description": "Converts the frenrider Lua script into a native Dalamud plugin for managing 2+ characters in various situations. Follow party members, auto-mount, combat integration, and more. Use /frenrider to open.",
@@ -40,15 +40,39 @@
     ],
     "IsHide": false,
     "InternalName": "FrenRider",
-    "AssemblyVersion": "0.0.0.11",
+    "AssemblyVersion": "0.0.0.12",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 26,
-    "LastUpdate": 1772392786,
-    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.11/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.11/latest.zip",
+    "DownloadCount": 31,
+    "LastUpdate": 1772414816,
+    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Hello Fellow Human",
+    "Punchline": "Automated proximity-based emote reactions.",
+    "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
+    "Changelog": "",
+    "Tags": [
+      "emote",
+      "automation",
+      "rp",
+      "proximity"
+    ],
+    "IsHide": false,
+    "InternalName": "HelloFellowHuman",
+    "AssemblyVersion": "0.0.0.4",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "LastUpdate": 1772423979,
+    "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png"
   }
 ]
