@@ -52,7 +52,7 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
   },
   {
-    "Author": "McVaxius",
+    "Author": "DhogGPT",
     "Name": "Hello Fellow Human",
     "InternalName": "HelloFellowHuman",
     "AssemblyVersion": "0.0.0.4",
@@ -65,6 +65,11 @@
       "proximity"
     ],
     "DalamudApiLevel": 14,
+    "DownloadCount": 0,
+    "LastUpdate": 1772414816,
+    "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
+    "SupportsProfiles": true,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
