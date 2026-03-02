@@ -2,7 +2,7 @@
   {
     "Author": "DhogGPT",
     "Name": "Chocobo Colourized",
-    "Punchline": "Calculate the optimal fruit feeding path to change your chocobo's colour and handle the turnins automatically.",
+    "Punchline": "Calculate the optimal fruit feeding path to change your chocobo's colour.",
     "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
     "Changelog": "**Full Changelog**: https://github.com/McVaxius/ChocoboColourized/compare/v0.0.0.6...v0.0.0.7",
     "Tags": [
@@ -18,7 +18,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 51,
+    "DownloadCount": 53,
     "LastUpdate": 1772309827,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
@@ -44,10 +44,10 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 38,
-    "LastUpdate": 1772414816,
-    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
+    "DownloadCount": 30,
+    "LastUpdate": 1772429340,
+    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.13/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.13/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
   },
@@ -69,10 +69,9 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 4,
-    "LastUpdate": 1772424399,
-    "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
+    "LastUpdate": 1772429369,
+    "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.5/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png"
   }
