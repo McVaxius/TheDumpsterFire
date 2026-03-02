@@ -18,7 +18,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 48,
+    "DownloadCount": 51,
     "LastUpdate": 1772309827,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.7/latest.zip",
@@ -44,7 +44,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 35,
+    "DownloadCount": 38,
     "LastUpdate": 1772414816,
     "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.12/latest.zip",
@@ -69,17 +69,11 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 0,
-    "LastUpdate": 1772414816,
+    "DownloadCount": 4,
+    "LastUpdate": 1772424399,
     "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.4/latest.zip",
     "SupportsProfiles": true,
-    "LoadRequiredState": 0,
-    "LoadSync": false,
-    "CanUnloadAsync": false,
-    "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/refs/heads/main/HelloFellowHuman/images/icon.png",
-    "Punchline": "Automated proximity-based emote reactions.",
-    "AcceptsFeedback": true
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png"
   }
 ]
