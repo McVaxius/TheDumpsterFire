@@ -91,7 +91,7 @@
     ],
     "IsHide": false,
     "InternalName": "LootGoblin",
-    "AssemblyVersion": "0.0.0.5",
+    "AssemblyVersion": "0.0.0.7",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
