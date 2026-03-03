@@ -91,14 +91,14 @@
     ],
     "IsHide": false,
     "InternalName": "LootGoblin",
-    "AssemblyVersion": "0.0.1.0",
+    "AssemblyVersion": "0.0.1.1",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 10,
-    "LastUpdate": 1772578389,
-    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.0/latest.zip",
+    "LastUpdate": 1772579003,
+    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.1/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png"
   }
