@@ -40,7 +40,7 @@
     ],
     "IsHide": false,
     "InternalName": "FrenRider",
-    "AssemblyVersion": "0.0.0.40",
+    "AssemblyVersion": "0.0.0.39",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
