@@ -126,10 +126,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 3,
-    "LastUpdate": 1773183055,
-    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.9/latest.zip",
+    "LastUpdate": 1773183368,
+    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.10/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/refs/heads/master/VERMAXION/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
   }
 ]
