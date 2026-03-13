@@ -120,7 +120,7 @@
     ],
     "IsHide": false,
     "InternalName": "VERMAXION",
-    "AssemblyVersion": "0.0.0.30",
+    "AssemblyVersion": "0.0.0.31",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/VERMAXION",
     "ApplicableVersion": "any",
@@ -135,7 +135,7 @@
   {
     "Author": "DhogGPT",
     "Name": "MOGTOME",
-    "Punchline": "Automated duty farming and tome acquisition.",
+    "Punchline": "Automated duty farming and mogtome acquisition.",
     "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
     "Changelog": "",
     "Tags": [
