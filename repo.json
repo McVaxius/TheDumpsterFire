@@ -131,5 +131,34 @@
     "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.30/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "MOGTOME",
+    "Punchline": "Automated duty farming and tome acquisition.",
+    "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
+    "Changelog": "",
+    "Tags": [
+      "automation",
+      "duty",
+      "farming",
+      "praetorium",
+      "tomes"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "IsHide": false,
+    "InternalName": "MOGTOME",
+    "AssemblyVersion": "0.0.0.1",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/McVaxius/MOGTOME",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "LastUpdate": 1773371637,
+    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.1/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
   }
 ]
