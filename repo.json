@@ -91,7 +91,7 @@
     ],
     "IsHide": false,
     "InternalName": "LootGoblin",
-    "AssemblyVersion": "0.0.1.91",
+    "AssemblyVersion": "0.0.1.92",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
@@ -134,9 +134,9 @@
   },
   {
     "Author": "DhogGPT",
-    "Name": "MOGTOME",
+    "Name": "M.O.G.T.O.M.E.",
     "Punchline": "Automated duty farming and mogtome acquisition.",
-    "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open.",
+    "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
     "Changelog": "",
     "Tags": [
       "automation",
