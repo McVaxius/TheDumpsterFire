@@ -69,7 +69,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 239,
+    "DownloadCount": 240,
     "LastUpdate": 1773525383,
     "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.19/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.19/latest.zip",
@@ -155,10 +155,10 @@
     "RepoUrl": "https://github.com/McVaxius/MOGTOME",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 23,
-    "LastUpdate": 1773545557,
-    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.6/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.6/latest.zip",
+    "DownloadCount": 24,
+    "LastUpdate": 1773599922,
+    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.7/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.7/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
   }
