@@ -65,7 +65,7 @@
     ],
     "IsHide": false,
     "InternalName": "HelloFellowHuman",
-    "AssemblyVersion": "0.0.0.28",
+    "AssemblyVersion": "0.0.0.29",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
