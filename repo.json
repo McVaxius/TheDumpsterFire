@@ -162,7 +162,6 @@
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
   },
-  [
     {
         "Author": "DhogGPT",
         "Name": "Krangler",
@@ -184,6 +183,4 @@
         "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/refs/heads/master/Krangler/images/icon.png",
         "ImageUrls": []
     }
-]
-
 ]
