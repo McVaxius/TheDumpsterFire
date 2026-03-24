@@ -181,9 +181,9 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 6,
-    "LastUpdate": 1774366150,
-    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.8/latest.zip",
+    "LastUpdate": 1774366661,
+    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.9/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png"
   }
