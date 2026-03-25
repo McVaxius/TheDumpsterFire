@@ -176,7 +176,7 @@
     ],
     "IsHide": false,
     "InternalName": "Krangler",
-    "AssemblyVersion": "0.0.0.12",
+    "AssemblyVersion": "0.0.0.13",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
