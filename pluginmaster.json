@@ -18,94 +18,12 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 449,
+    "DownloadCount": 451,
     "LastUpdate": 1774638277,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.27/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.27/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png"
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "Choke-abo",
-    "Punchline": "Chocobo stable feeding and vendor-planning scaffold.",
-    "Description": "Chocobo stable feeding and vendor-planning scaffold.",
-    "Changelog": "",
-    "Tags": [
-      "ffxiv",
-      "chokeabo",
-      "dhog"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "IsHide": false,
-    "InternalName": "ChokeAbo",
-    "AssemblyVersion": "0.0.0.2",
-    "IsTestingExclusive": false,
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 1,
-    "LastUpdate": 1774640525,
-    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "Dheacon",
-    "Punchline": "Another hand touches the crystal.",
-    "Description": "Another hand touches the crystal.",
-    "Changelog": "",
-    "Tags": [
-      "ffxiv",
-      "dheacon",
-      "dhog"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "IsHide": false,
-    "InternalName": "dheacon",
-    "AssemblyVersion": "0.0.0.9",
-    "IsTestingExclusive": false,
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 8,
-    "LastUpdate": 1774638302,
-    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "DhogGPT",
-    "Punchline": "Translate selected FFXIV chat channels in real time.",
-    "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt or /dgpt to open it.",
-    "Changelog": "",
-    "Tags": [
-      "chat",
-      "translation",
-      "language",
-      "communication"
-    ],
-    "CategoryTags": [
-      "social"
-    ],
-    "IsHide": false,
-    "InternalName": "DhogGPT",
-    "AssemblyVersion": "0.0.1.4",
-    "IsTestingExclusive": false,
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 22,
-    "LastUpdate": 1774638277,
-    "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -126,7 +44,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 325,
+    "DownloadCount": 326,
     "LastUpdate": 1774638314,
     "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.62/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.62/latest.zip",
@@ -151,37 +69,12 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 451,
+    "DownloadCount": 454,
     "LastUpdate": 1774638281,
     "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.30/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.30/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png"
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "Krangler",
-    "Punchline": "Randomize player names, races, genders and appearances for screenshot safety.",
-    "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
-    "Changelog": "",
-    "Tags": [
-      "screenshot",
-      "privacy",
-      "names",
-      "randomize"
-    ],
-    "IsHide": false,
-    "InternalName": "Krangler",
-    "AssemblyVersion": "0.0.0.14",
-    "IsTestingExclusive": false,
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 30,
-    "LastUpdate": 1774638305,
-    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -202,42 +95,12 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 282,
+    "DownloadCount": 283,
     "LastUpdate": 1774638307,
     "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.105/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.105/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png"
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "M.O.G.T.O.M.E.",
-    "Punchline": "Automated duty farming and mogtome acquisition.",
-    "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
-    "Changelog": "",
-    "Tags": [
-      "automation",
-      "duty",
-      "farming",
-      "praetorium",
-      "tomes"
-    ],
-    "CategoryTags": [
-      "other"
-    ],
-    "IsHide": false,
-    "InternalName": "MOGTOME",
-    "AssemblyVersion": "0.0.0.20",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/McVaxius/MOGTOME",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 231,
-    "LastUpdate": 1774638309,
-    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.20/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.20/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -262,11 +125,176 @@
     "RepoUrl": "https://github.com/McVaxius/VERMAXION",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 312,
+    "DownloadCount": 314,
     "LastUpdate": 1774638297,
     "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "M.O.G.T.O.M.E.",
+    "Punchline": "Automated duty farming and mogtome acquisition.",
+    "Description": "M.O.G.T.O.M.E. automates duty farming (Praetorium/Porta Decumana) with party coordination, repair, food, potions, rotation management, and stuck detection. Use /mogtome or /mog to open. M.O.G.T.O.M.E. = Management Of Grand Tome Operations & Management Engine",
+    "Changelog": "",
+    "Tags": [
+      "automation",
+      "duty",
+      "farming",
+      "praetorium",
+      "tomes"
+    ],
+    "CategoryTags": [
+      "other"
+    ],
+    "IsHide": false,
+    "InternalName": "MOGTOME",
+    "AssemblyVersion": "0.0.0.20",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/McVaxius/MOGTOME",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 232,
+    "LastUpdate": 1774638309,
+    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.20/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.20/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Krangler",
+    "Punchline": "Randomize player names, races, genders and appearances for screenshot safety.",
+    "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
+    "Changelog": "",
+    "Tags": [
+      "screenshot",
+      "privacy",
+      "names",
+      "randomize"
+    ],
+    "IsHide": false,
+    "InternalName": "Krangler",
+    "AssemblyVersion": "0.0.0.14",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 31,
+    "LastUpdate": 1774638305,
+    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "DhogGPT",
+    "Punchline": "Translate selected FFXIV chat channels in real time.",
+    "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt or /dgpt to open it.",
+    "Changelog": "",
+    "Tags": [
+      "chat",
+      "translation",
+      "language",
+      "communication"
+    ],
+    "CategoryTags": [
+      "social"
+    ],
+    "IsHide": false,
+    "InternalName": "DhogGPT",
+    "AssemblyVersion": "0.0.1.4",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 24,
+    "LastUpdate": 1774638277,
+    "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Dheacon",
+    "Punchline": "Another hand touches the crystal.",
+    "Description": "Another hand touches the crystal.",
+    "Changelog": "",
+    "Tags": [
+      "ffxiv",
+      "dheacon",
+      "dhog"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "IsHide": false,
+    "InternalName": "dheacon",
+    "AssemblyVersion": "0.0.0.9",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 9,
+    "LastUpdate": 1774638302,
+    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Dhog Potato System",
+    "Punchline": "Hide the junk. Keep the party.",
+    "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
+    "Changelog": "",
+    "Tags": [
+      "performance",
+      "visibility",
+      "potato",
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "IsHide": false,
+    "InternalName": "DPS",
+    "AssemblyVersion": "0.0.0.4",
+    "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/McVaxius/DPS",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "LastUpdate": 1774641799,
+    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Choke-abo",
+    "Punchline": "Chocobo stable feeding and vendor-planning scaffold.",
+    "Description": "Chocobo stable feeding and vendor-planning scaffold.",
+    "Changelog": "",
+    "Tags": [
+      "ffxiv",
+      "chokeabo",
+      "dhog"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "IsHide": false,
+    "InternalName": "ChokeAbo",
+    "AssemblyVersion": "0.0.0.2",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 2,
+    "LastUpdate": 1774640525,
+    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
   }
 ]
