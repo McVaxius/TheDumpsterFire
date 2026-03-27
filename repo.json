@@ -275,7 +275,7 @@
     "Punchline": "Hide the junk. Keep the party.",
     "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
     "InternalName": "DPS",
-    "AssemblyVersion": "0.0.0.3",
+    "AssemblyVersion": "0.0.0.4",
     "TestingAssemblyVersion": "0.0.0.1",
     "RepoUrl": "https://github.com/McVaxius/DPS",
     "ApplicableVersion": "any",
@@ -290,14 +290,21 @@
     "DalamudApiLevel": 14,
     "SupportsProfiles": true,
     "DownloadCount": 0,
-    "LastUpdate": 1774638140
+    "LastUpdate": 1774638140,
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "CategoryTags": [
+      "utility"
+    ],
+    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png"
   },
   {
     "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
     "Author": "DhogGPT",
     "Name": "Choke-abo",
-    "Punchline": "Chocobo stable feeding and vendor-planning scaffold.",
-    "Description": "Chocobo stable feeding and vendor-planning scaffold.",
+    "Punchline": "Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
+    "Description": "Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
     "InternalName": "ChokeAbo",
     "AssemblyVersion": "0.0.0.2",
     "ApplicableVersion": "any",
