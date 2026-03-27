@@ -43,16 +43,19 @@
     ],
     "IsHide": false,
     "InternalName": "FrenRider",
-    "AssemblyVersion": "0.0.0.60",
+    "AssemblyVersion": "0.0.0.61",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 294,
     "LastUpdate": 1774499458,
-    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.60/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.60/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.61/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.61/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
+    "RepoUrl": "https://github.com/McVaxius/FrenRider",
+    "DownloadLinkTesting": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
