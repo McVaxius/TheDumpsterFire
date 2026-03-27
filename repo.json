@@ -2,8 +2,8 @@
   {
     "Author": "DhogGPT",
     "Name": "Chocobo Colourized",
-    "Punchline": "Calculate+Automatically feed the optimal fruit-feeding-path to change your chocobo's colour.",
-    "Description": "Chocobo Colourized helps you find+automatically turn-in the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
+    "Punchline": "Calculate+Automatically-feed the optimal fruit-feeding-path to change your chocobo's colour.",
+    "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
     "Changelog": "",
     "Tags": [
       "chocobo",
@@ -18,15 +18,94 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 420,
-    "LastUpdate": 1773703295,
+    "DownloadCount": 449,
+    "LastUpdate": 1774638277,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.27/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.27/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-    "DownloadLinkTesting": "https://github.com/McVaxius/ChocoboColourized/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Choke-abo",
+    "Punchline": "Chocobo stable feeding and vendor-planning scaffold.",
+    "Description": "Chocobo stable feeding and vendor-planning scaffold.",
+    "Changelog": "",
+    "Tags": [
+      "ffxiv",
+      "chokeabo",
+      "dhog"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "IsHide": false,
+    "InternalName": "ChokeAbo",
+    "AssemblyVersion": "0.0.0.2",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 1,
+    "LastUpdate": 1774640525,
+    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Dheacon",
+    "Punchline": "Another hand touches the crystal.",
+    "Description": "Another hand touches the crystal.",
+    "Changelog": "",
+    "Tags": [
+      "ffxiv",
+      "dheacon",
+      "dhog"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "IsHide": false,
+    "InternalName": "dheacon",
+    "AssemblyVersion": "0.0.0.9",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 8,
+    "LastUpdate": 1774638302,
+    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "DhogGPT",
+    "Punchline": "Translate selected FFXIV chat channels in real time.",
+    "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt or /dgpt to open it.",
+    "Changelog": "",
+    "Tags": [
+      "chat",
+      "translation",
+      "language",
+      "communication"
+    ],
+    "CategoryTags": [
+      "social"
+    ],
+    "IsHide": false,
+    "InternalName": "DhogGPT",
+    "AssemblyVersion": "0.0.1.4",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 22,
+    "LastUpdate": 1774638277,
+    "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -47,27 +126,23 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 294,
-    "LastUpdate": 1774499458,
+    "DownloadCount": 325,
+    "LastUpdate": 1774638314,
     "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.62/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v0.0.0.62/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/FrenRider",
-    "DownloadLinkTesting": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
   },
   {
     "Author": "DhogGPT",
     "Name": "Hello Fellow Human",
-    "Punchline": "Proximity-based emote automation for FFXIV.",
-    "Description": "Automatically execute emotes when specific players are nearby. Configure distance thresholds, wait times, and repeat intervals. Perfect for roleplaying scenarios and automated greetings. Use /hfh to configure.",
+    "Punchline": "Automated proximity-based emote reactions.",
+    "Description": "Configure emote responses that trigger when specific players are nearby. Perfect for passive RP automation. Use /hfh to configure.",
     "Changelog": "",
     "Tags": [
       "emote",
       "automation",
-      "roleplay",
-      "social",
+      "rp",
       "proximity"
     ],
     "IsHide": false,
@@ -76,15 +151,37 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 444,
-    "LastUpdate": 1774499461,
+    "DownloadCount": 451,
+    "LastUpdate": 1774638281,
     "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.30/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v0.0.0.30/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/HelloFellowHuman",
-    "DownloadLinkTesting": "https://github.com/McVaxius/HelloFellowHuman/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/HelloFellowHuman/main/HelloFellowHuman/images/icon.png"
+  },
+  {
+    "Author": "DhogGPT",
+    "Name": "Krangler",
+    "Punchline": "Randomize player names, races, genders and appearances for screenshot safety.",
+    "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
+    "Changelog": "",
+    "Tags": [
+      "screenshot",
+      "privacy",
+      "names",
+      "randomize"
+    ],
+    "IsHide": false,
+    "InternalName": "Krangler",
+    "AssemblyVersion": "0.0.0.14",
+    "IsTestingExclusive": false,
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "DownloadCount": 30,
+    "LastUpdate": 1774638305,
+    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
+    "SupportsProfiles": true,
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -105,52 +202,12 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 251,
-    "LastUpdate": 1774499474,
+    "DownloadCount": 282,
+    "LastUpdate": 1774638307,
     "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.105/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.105/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-    "DownloadLinkTesting": "https://github.com/McVaxius/LootGoblin/releases/latest/download/latest.zip",
-    "LoadPriority": 0
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "VerMAXion",
-    "Punchline": "Automated weekly/daily tasks via AutoRetainer post-processing.",
-    "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
-    "Changelog": "",
-    "Tags": [
-      "automation",
-      "dailies",
-      "weeklies",
-      "autoretainer",
-      "postprocess",
-      "fc",
-      "buff",
-      "verminion",
-      "cactpot",
-      "chocobo"
-    ],
-    "CategoryTags": [
-      "other"
-    ],
-    "IsHide": false,
-    "InternalName": "VERMAXION",
-    "AssemblyVersion": "0.0.0.69",
-    "IsTestingExclusive": false,
-    "RepoUrl": "https://github.com/McVaxius/VERMAXION",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 279,
-    "LastUpdate": 1774499493,
-    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
-    "DownloadLinkTesting": "https://github.com/McVaxius/VERMAXION/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -175,149 +232,41 @@
     "RepoUrl": "https://github.com/McVaxius/MOGTOME",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 208,
-    "LastUpdate": 1774500681,
+    "DownloadCount": 231,
+    "LastUpdate": 1774638309,
     "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.20/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.20/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
-    "DownloadLinkTesting": "https://github.com/McVaxius/MOGTOME/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
   },
   {
     "Author": "DhogGPT",
-    "Name": "Krangler",
-    "Punchline": "Randomize player names, races, genders and appearances for screenshot safety.",
-    "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
+    "Name": "Vermaxion",
+    "Punchline": "ARPostProcess automation for weekly/daily tasks.",
+    "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
     "Changelog": "",
     "Tags": [
-      "screenshot",
-      "privacy",
-      "names",
-      "randomize"
-    ],
-    "IsHide": false,
-    "InternalName": "Krangler",
-    "AssemblyVersion": "0.0.0.14",
-    "IsTestingExclusive": false,
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "DownloadCount": 25,
-    "LastUpdate": 1774509269,
-    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
-    "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/Krangler",
-    "ImageUrls": []
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "DhogGPT",
-    "Punchline": "Translate selected FFXIV chat channels in real time.",
-    "Description": "DhogGPT translates incoming chat from selected channels and gives you a translate-and-send composer for outgoing messages. Use /dhoggpt or /dgpt to open it.",
-    "Changelog": "",
-    "Tags": [
-      "chat",
-      "translation",
-      "language",
-      "communication"
+      "automation",
+      "autoretainer",
+      "postprocess",
+      "verminion",
+      "cactpot"
     ],
     "CategoryTags": [
-      "social"
+      "other"
     ],
     "IsHide": false,
-    "InternalName": "DhogGPT",
-    "AssemblyVersion": "0.0.1.4",
+    "InternalName": "VERMAXION",
+    "AssemblyVersion": "0.0.0.69",
     "IsTestingExclusive": false,
+    "RepoUrl": "https://github.com/McVaxius/VERMAXION",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "LastUpdate": 1774509266,
-    "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v0.0.1.4/latest.zip",
+    "DownloadCount": 312,
+    "LastUpdate": 1774638297,
+    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png",
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "DownloadCount": 0,
-    "RepoUrl": "https://github.com/McVaxius/DhogGPT"
-  },
-  {
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "Author": "DhogGPT",
-    "Name": "Dheacon",
-    "Punchline": "Another hand touches the crystal.",
-    "Description": "Another hand touches the crystal.",
-    "InternalName": "dheacon",
-    "AssemblyVersion": "0.0.0.9",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "Tags": [
-      "ffxiv",
-      "dheacon",
-      "dhog"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "SupportsProfiles": true,
-    "DownloadCount": 0,
-    "LastUpdate": 1774557095,
-    "RepoUrl": "https://github.com/McVaxius/dheacon",
-    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
-  },
-  {
-    "Author": "DhogGPT",
-    "Name": "Dhog Potato System",
-    "Punchline": "Hide the junk. Keep the party.",
-    "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
-    "InternalName": "DPS",
-    "AssemblyVersion": "0.0.0.3",
-    "TestingAssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/McVaxius/DPS",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "performance",
-      "visibility",
-      "potato",
-      "utility"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DalamudApiLevel": 14,
-    "SupportsProfiles": true,
-    "DownloadCount": 0,
-    "LastUpdate": 1774638140
-  },
-  {
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "Author": "DhogGPT",
-    "Name": "Choke-abo",
-    "Punchline": "Chocobo stable feeding and vendor-planning scaffold.",
-    "Description": "Chocobo stable feeding and vendor-planning scaffold.",
-    "InternalName": "ChokeAbo",
-    "AssemblyVersion": "0.0.0.2",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "Tags": [
-      "ffxiv",
-      "chokeabo",
-      "dhog"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "SupportsProfiles": true,
-    "DownloadCount": 0,
-    "LastUpdate": 1774640392,
-    "RepoUrl": "https://github.com/McVaxius/ChokeAbo",
-    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
   }
 ]
