@@ -2,8 +2,8 @@
   {
     "Author": "DhogGPT",
     "Name": "Chocobo Colourized",
-    "Punchline": "Calculate+Automatically-feed the optimal fruit-feeding-path to change your chocobo's colour.",
-    "Description": "Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
+    "Punchline": "Calculate+Automatically feed the optimal fruit-feeding-path to change your chocobo's colour.",
+    "Description": "Chocobo Colourized helps you find+automatically turn-in the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
     "Changelog": "",
     "Tags": [
       "chocobo",
@@ -14,16 +14,19 @@
     ],
     "IsHide": false,
     "InternalName": "ChocoboColourized",
-    "AssemblyVersion": "0.0.0.25",
+    "AssemblyVersion": "0.0.0.26",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 420,
     "LastUpdate": 1773703295,
-    "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.25/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.25/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.26/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.26/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png",
+    "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
+    "DownloadLinkTesting": "https://github.com/McVaxius/ChocoboColourized/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
