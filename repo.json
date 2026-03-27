@@ -291,5 +291,33 @@
     "SupportsProfiles": true,
     "DownloadCount": 0,
     "LastUpdate": 1774638140
+  },
+  {
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "Author": "DhogGPT",
+    "Name": "Choke-abo",
+    "Punchline": "Chocobo stable feeding and vendor-planning scaffold.",
+    "Description": "Chocobo stable feeding and vendor-planning scaffold.",
+    "InternalName": "ChokeAbo",
+    "AssemblyVersion": "0.0.0.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": [
+      "ffxiv",
+      "chokeabo",
+      "dhog"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "SupportsProfiles": true,
+    "DownloadCount": 0,
+    "LastUpdate": 1774640392,
+    "RepoUrl": "https://github.com/McVaxius/ChokeAbo",
+    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
   }
 ]
