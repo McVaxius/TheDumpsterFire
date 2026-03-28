@@ -255,7 +255,7 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
   },
   {
-    "Author": "DhogGPT",
+    "Author": "DhogGPT, XA",
     "Name": "Dhog Potato System",
     "Punchline": "Hide the junk. Keep the party.",
     "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
@@ -271,16 +271,19 @@
     ],
     "IsHide": false,
     "InternalName": "DPS",
-    "AssemblyVersion": "0.0.0.4",
+    "AssemblyVersion": "0.0.0.8",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/DPS",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "LastUpdate": 1774641799,
-    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.8/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.8/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "DownloadCount": 0
   },
   {
     "Author": "DhogGPT",
