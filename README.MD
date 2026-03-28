@@ -10,7 +10,7 @@ This repository aggregates every one of my Dalamud plugin projects so I can hand
 ## Dalamud repo URL
 
 ```
-https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/refs/heads/master/repo.json
+https://raw.githubusercontent.com/McVaxius/TheDumpsterFire/master/repo.json
 ```
 
 Paste the URL above into Dalamud → Settings → Experimental → Custom Plugin Repositories to access every plugin at once.
