@@ -130,102 +130,7 @@
     "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.69/latest.zip",
     "SupportsProfiles": true,
-<<<<<<< HEAD
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png",
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "DownloadCount": 0,
-    "RepoUrl": "https://github.com/McVaxius/DhogGPT"
-  },
-  {
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "Author": "DhogGPT",
-    "Name": "Dheacon",
-    "Punchline": "Another hand touches the crystal.",
-    "Description": "Another hand touches the crystal.",
-    "InternalName": "dheacon",
-    "AssemblyVersion": "0.0.0.9",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "Tags": [
-      "ffxiv",
-      "dheacon",
-      "dhog"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "SupportsProfiles": true,
-    "DownloadCount": 0,
-    "LastUpdate": 1774557095,
-    "RepoUrl": "https://github.com/McVaxius/dheacon",
-    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
-  },
-  {
-    "Author": "DhogGPT, XA",
-    "Name": "Dhog Potato System",
-    "Punchline": "Hide the junk. Keep the party.",
-    "Description": "A potato-mode Dalamud plugin for weak machines: suppress non-party players, pets, chocobos, and minions so the client spends less effort rendering garbage you do not need.",
-    "InternalName": "DPS",
-    "AssemblyVersion": "0.0.0.4",
-    "TestingAssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/McVaxius/DPS",
-    "ApplicableVersion": "any",
-    "Tags": [
-      "performance",
-      "visibility",
-      "potato",
-      "utility"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "DalamudApiLevel": 14,
-    "SupportsProfiles": true,
-    "DownloadCount": 0,
-    "LastUpdate": 1774638140,
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "CategoryTags": [
-      "utility"
-    ],
-    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.4/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png"
-  },
-  {
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "Author": "DhogGPT",
-    "Name": "Choke-abo",
-    "Punchline": "(Racing Chocobo) Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
-    "Description": "(Racing Chocobo) Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
-    "InternalName": "ChokeAbo",
-    "AssemblyVersion": "0.0.0.2",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
-    "Tags": [
-      "ffxiv",
-      "chokeabo",
-      "dhog"
-    ],
-    "CategoryTags": [
-      "utility"
-    ],
-    "IsHide": false,
-    "IsTestingExclusive": false,
-    "SupportsProfiles": true,
-    "DownloadCount": 0,
-    "LastUpdate": 1774640392,
-    "RepoUrl": "https://github.com/McVaxius/ChokeAbo",
-    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
-=======
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
-<<<<<<< HEAD
->>>>>>> ba9093dd56dcae771b39ffecc46672128b9aaae1
-=======
   },
   {
     "Author": "DhogGPT",
@@ -391,6 +296,5 @@
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
->>>>>>> 10d5c6fc572965748d01f89b815df1381b7af98a
   }
 ]
