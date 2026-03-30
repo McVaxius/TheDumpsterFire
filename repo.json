@@ -2,8 +2,8 @@
   {
     "Author": "DhogGPT",
     "Name": "Chocobo Colourized",
-    "Punchline": "Calculate+Automatically-feed the optimal fruit-feeding-path to change your chocobo's colour.",
-    "Description": "(Personal Chocobo) Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
+    "Punchline": "(Personal Chocobo) Calculate+Automatically feed the optimal fruit-feeding-path to change your chocobo's colour.",
+    "Description": "(Personal Chocobo) Chocobo Colourized helps you find+automatically turn-in the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
     "Changelog": "",
     "Tags": [
       "chocobo",
@@ -14,16 +14,19 @@
     ],
     "IsHide": false,
     "InternalName": "ChocoboColourized",
-    "AssemblyVersion": "0.0.0.27",
+    "AssemblyVersion": "0.0.0.29",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 451,
     "LastUpdate": 1774638277,
-    "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.27/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.27/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.29/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.29/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png",
+    "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
+    "DownloadLinkTesting": "https://github.com/McVaxius/ChocoboColourized/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
@@ -173,7 +176,7 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
   },
   {
-    "Author": "DhogGPT",
+    "Author": "DhogGPT, XA",
     "Name": "Krangler",
     "Punchline": "Randomize player names, races, genders and appearances for screenshot safety.",
     "Description": "Krangler makes your screenshots safe by randomizing visible player information. Toggle name krangling, gender swaps, race changes, and full appearance randomization independently.",
@@ -186,16 +189,18 @@
     ],
     "IsHide": false,
     "InternalName": "Krangler",
-    "AssemblyVersion": "0.0.0.14",
+    "AssemblyVersion": "0.0.0.15",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 31,
     "LastUpdate": 1774638305,
-    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.14/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.15/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.15/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
+    "RepoUrl": "https://github.com/McVaxius/Krangler",
+    "ImageUrls": []
   },
   {
     "Author": "DhogGPT",
@@ -271,14 +276,14 @@
     ],
     "IsHide": false,
     "InternalName": "DPS",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "0.0.0.9",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/DPS",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "LastUpdate": 1774641799,
-    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.8/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.9/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
     "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
@@ -288,8 +293,8 @@
   {
     "Author": "DhogGPT",
     "Name": "Choke-abo",
-    "Punchline": "Chocobo stable feeding and vendor-planning scaffold.",
-    "Description": "Chocobo stable feeding and vendor-planning scaffold.",
+    "Punchline": "(Racing Chocobo) Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
+    "Description": "(Racing Chocobo) Feed your Racing chocobo Grade 1-2-3 Feed. Includes automatic buying and feeding.",
     "Changelog": "",
     "Tags": [
       "ffxiv",
@@ -301,15 +306,17 @@
     ],
     "IsHide": false,
     "InternalName": "ChokeAbo",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.4",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 2,
     "LastUpdate": 1774640525,
-    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.4/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "RepoUrl": "https://github.com/McVaxius/ChokeAbo"
   }
 ]
