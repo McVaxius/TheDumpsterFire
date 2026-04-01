@@ -305,7 +305,7 @@
     "Punchline": "Keep critical HUD state visible when the world gets stripped down.",
     "Description": "An essential-state HUD for monitoring zone, position, combat state, durability, and party awareness when your main rendering setup is intentionally reduced.",
     "InternalName": "TTSL",
-    "AssemblyVersion": "0.0.0.2",
+    "AssemblyVersion": "0.0.0.3",
     "TestingAssemblyVersion": "0.0.0.1",
     "RepoUrl": "https://github.com/McVaxius/TTSL",
     "ApplicableVersion": "any",
@@ -324,8 +324,8 @@
     "SupportsProfiles": true,
     "DownloadCount": 0,
     "LastUpdate": 1775017313,
-    "DownloadLinkInstall": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.3/latest.zip",
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/TTSL/master/TTSL/images/icon.png"
   }
 ]
