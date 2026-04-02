@@ -256,17 +256,19 @@
     ],
     "IsHide": false,
     "InternalName": "MOGTOME",
-    "AssemblyVersion": "0.0.0.37",
+    "AssemblyVersion": "0.0.0.38",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/MOGTOME",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 549,
     "LastUpdate": 1775105007,
-    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.37/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.37/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.38/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.38/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
+    "DownloadLinkTesting": "https://github.com/McVaxius/MOGTOME/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
