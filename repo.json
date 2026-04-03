@@ -206,16 +206,18 @@
     ],
     "IsHide": false,
     "InternalName": "DhogGPT",
-    "AssemblyVersion": "1.0.0.12",
+    "AssemblyVersion": "1.0.0.14",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 151,
     "LastUpdate": 1775137290,
-    "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.12/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.12/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.14/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.14/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "RepoUrl": "https://github.com/McVaxius/DhogGPT"
   },
   {
     "Author": "DhogGPT",
@@ -317,16 +319,18 @@
     ],
     "IsHide": false,
     "InternalName": "TTSL",
-    "AssemblyVersion": "0.0.0.15",
+    "AssemblyVersion": "0.0.0.16",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/TTSL",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 62,
     "LastUpdate": 1775166573,
-    "DownloadLinkInstall": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.15/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.15/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.16/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.16/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/TTSL/master/TTSL/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/TTSL/master/TTSL/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "TestingAssemblyVersion": "0.0.0.1"
   }
 ]
