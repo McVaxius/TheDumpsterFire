@@ -257,16 +257,18 @@
     ],
     "IsHide": false,
     "InternalName": "dheacon",
-    "AssemblyVersion": "0.0.0.9",
+    "AssemblyVersion": "0.0.0.11",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 6,
     "LastUpdate": 1775234314,
-    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.11/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.11/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "RepoUrl": "https://github.com/McVaxius/dheacon"
   },
   {
     "Author": "DhogGPT",
