@@ -2,8 +2,8 @@
   {
     "Author": "DhogGPT",
     "Name": "Chocobo Colourized",
-    "Punchline": "(Personal Chocobo) Calculate+Automatically feed the optimal fruit-feeding-path to change your chocobo's colour.",
-    "Description": "(Personal Chocobo) Chocobo Colourized helps you find+automatically turn-in the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
+    "Punchline": "(Personal Chocobo) Calculate+Automatically-feed the optimal fruit-feeding-path to change your chocobo's colour.",
+    "Description": "(Personal Chocobo) Chocobo Colourized helps you find the most efficient sequence of fruits to feed your chocobo companion to reach your desired target colour. Use /chococolor to open the calculator.",
     "Changelog": "",
     "Tags": [
       "chocobo",
@@ -19,14 +19,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 515,
-    "LastUpdate": 1775240726,
+    "LastUpdate": 1775260008,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.31/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v0.0.0.31/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/ChocoboColourized",
-    "DownloadLinkTesting": "https://github.com/McVaxius/ChocoboColourized/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChocoboColourized/main/ChocoboColourized/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -49,13 +46,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 48,
-    "LastUpdate": 1775240743,
+    "LastUpdate": 1775260021,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.6/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChokeAbo/releases/download/v0.0.0.6/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png",
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "RepoUrl": "https://github.com/McVaxius/ChokeAbo"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ChokeAbo/main/ChokeAbo/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -78,13 +73,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 39,
-    "LastUpdate": 1775241138,
+    "LastUpdate": 1775260003,
     "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.12/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v0.0.0.12/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png",
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "RepoUrl": "https://github.com/McVaxius/dheacon"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/dheacon/main/dheacon/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -108,13 +101,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 195,
-    "LastUpdate": 1775240749,
+    "LastUpdate": 1775259996,
     "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.16/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.16/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png",
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "RepoUrl": "https://github.com/McVaxius/DhogGPT"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DhogGPT/master/DhogGPT/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -139,13 +130,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 87,
-    "LastUpdate": 1775240754,
+    "LastUpdate": 1775260057,
     "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.16/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.16/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
-    "TestingAssemblyVersion": "0.0.0.1"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -167,14 +156,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 572,
-    "LastUpdate": 1775255241,
+    "LastUpdate": 1775260022,
     "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.0.7/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/FrenRider",
-    "DownloadLinkTesting": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
   },
   {
     "Author": "DhogGPT, XA",
@@ -195,13 +181,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 80,
-    "LastUpdate": 1775240691,
+    "LastUpdate": 1775259998,
     "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.21/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.21/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/Krangler",
-    "ImageUrls": []
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -223,14 +207,11 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 456,
-    "LastUpdate": 1775240722,
+    "LastUpdate": 1775260023,
     "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.108/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.1.108/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-    "DownloadLinkTesting": "https://github.com/McVaxius/LootGoblin/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -255,14 +236,12 @@
     "RepoUrl": "https://github.com/McVaxius/MOGTOME",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
-    "DownloadCount": 825,
-    "LastUpdate": 1775255772,
+    "DownloadCount": 826,
+    "LastUpdate": 1775259995,
     "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.48/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.48/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
-    "DownloadLinkTesting": "https://github.com/McVaxius/MOGTOME/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -295,21 +274,16 @@
   },
   {
     "Author": "DhogGPT",
-    "Name": "VerMAXion",
-    "Punchline": "Automated weekly/daily tasks via AutoRetainer post-processing.",
-    "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
+    "Name": "Vermaxion",
+    "Punchline": "ARPostProcess automation for weekly/daily tasks.",
+    "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
     "Changelog": "",
     "Tags": [
       "automation",
-      "dailies",
-      "weeklies",
       "autoretainer",
       "postprocess",
-      "fc",
-      "buff",
       "verminion",
-      "cactpot",
-      "chocobo"
+      "cactpot"
     ],
     "CategoryTags": [
       "other"
@@ -322,12 +296,10 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 519,
-    "LastUpdate": 1775240693,
+    "LastUpdate": 1775260031,
     "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.80/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.0.80/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
-    "DownloadLinkTesting": "https://github.com/McVaxius/VERMAXION/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
   }
 ]
