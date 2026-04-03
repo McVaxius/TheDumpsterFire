@@ -260,17 +260,19 @@
     ],
     "IsHide": false,
     "InternalName": "TTSL",
-    "AssemblyVersion": "0.0.0.18",
+    "AssemblyVersion": "0.0.0.19",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/TTSL",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 94,
     "LastUpdate": 1775258835,
-    "DownloadLinkInstall": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.18/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.18/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.19/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/TTSL/releases/download/v0.0.0.19/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/TTSL/master/TTSL/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/TTSL/master/TTSL/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "TestingAssemblyVersion": "0.0.0.1"
   },
   {
     "Author": "DhogGPT",
