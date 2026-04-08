@@ -97,17 +97,19 @@
     ],
     "IsHide": false,
     "InternalName": "DPS",
-    "AssemblyVersion": "0.0.0.17",
+    "AssemblyVersion": "0.0.0.18",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/DPS",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 535,
     "LastUpdate": 1775509796,
-    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.17/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.17/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.18/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.18/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/DPS/master/DPS/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "TestingAssemblyVersion": "0.0.0.1"
   },
   {
     "Author": "DhogGPT",
@@ -301,5 +303,49 @@
     "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.1.0/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
+  },
+    {
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "Author": "McVaxius",
+    "Name": "BFE",
+    "Punchline": "Hydatos bunny coordination and preset party callouts.",
+    "Description": "A new BFE shell focused on duty communication first: configured Hydatos/bunny callout presets, quick send buttons, standard Dhog window controls, and DTR visibility.",
+    "InternalName": "BFE",
+    "AssemblyVersion": "0.0.0.1",
+    "TestingAssemblyVersion": "0.0.0.1",
+    "RepoUrl": "https://github.com/McVaxius/BFE",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": [
+      "eureka",
+      "hydatos",
+      "callouts",
+      "utility"
+    ],
+    "CategoryTags": [
+      "utility"
+    ]
+  },
+    {
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "Author": "DhogGPT",
+    "Name": "Botology",
+    "Punchline": "Compatibility manager for semi-passive plugins and bot overlap warnings.",
+    "Description": "Let's face it, you are a Botologist now, you need proper analysis of all of your tools so they work and play nice together.",
+    "InternalName": "botology",
+    "AssemblyVersion": "0.0.0.1",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/McVaxius/botology",
+    "DalamudApiLevel": 14,
+    "Tags": [
+      "ffxiv",
+      "botology",
+      "manager",
+      "dhog"
+    ],
+    "CategoryTags": [
+      "utility"
+    ]
   }
+
 ]
