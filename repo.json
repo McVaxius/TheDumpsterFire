@@ -174,16 +174,18 @@
     ],
     "IsHide": false,
     "InternalName": "Krangler",
-    "AssemblyVersion": "0.0.0.22",
+    "AssemblyVersion": "0.0.0.23",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 519,
     "LastUpdate": 1775509815,
-    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.22/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.22/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.23/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.23/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/Krangler/master/Krangler/images/icon.png",
+    "RepoUrl": "https://github.com/McVaxius/Krangler",
+    "ImageUrls": []
   },
   {
     "Author": "DhogGPT",
