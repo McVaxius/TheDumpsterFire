@@ -126,17 +126,18 @@
     ],
     "IsHide": false,
     "InternalName": "footballer",
-    "AssemblyVersion": "0.0.0.4",
+    "AssemblyVersion": "0.0.0.5",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/footballer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 2,
     "LastUpdate": 1775714064,
-    "DownloadLinkInstall": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.4/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.4/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.5/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.5/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/footballer/main/footballer/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/footballer/main/footballer/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json"
   },
   {
     "Author": "DhogGPT",
