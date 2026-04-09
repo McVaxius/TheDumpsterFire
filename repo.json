@@ -299,5 +299,34 @@
     "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.1.1/latest.zip",
     "SupportsProfiles": true,
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
+  },
+  {
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+    "Author": "DhogGPT",
+    "Name": "Footballer",
+    "Punchline": "Inspector Footybrand is here to make sure your feet are ok. Don't worry the inspector respects Lodestone privacy.",
+    "Description": "Footballer is a private privacy-respecting foot showcase plugin with a saved main-window krangle toggle, cached Lodestone face gating, preview-only barefoot mode, and hidden debug research surfaces.",
+    "InternalName": "footballer",
+    "AssemblyVersion": "0.0.0.2",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 14,
+    "Tags": [
+      "ffxiv",
+      "footballer",
+      "lodestone",
+      "dhog"
+    ],
+    "CategoryTags": [
+      "utility"
+    ],
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "SupportsProfiles": true,
+    "DownloadCount": 0,
+    "LastUpdate": 1775713205,
+    "RepoUrl": "https://github.com/McVaxius/footballer",
+    "DownloadLinkInstall": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.2/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.2/latest.zip",
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/footballer/main/footballer/images/icon.png"
   }
 ]
