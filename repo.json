@@ -330,32 +330,39 @@
   },
   {
     "Author": "DhogGPT",
-    "Name": "Vermaxion",
-    "Punchline": "ARPostProcess automation for weekly/daily tasks.",
-    "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
+    "Name": "VerMAXion",
+    "Punchline": "Automated weekly/daily tasks via AutoRetainer post-processing.",
+    "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
     "Changelog": "",
     "Tags": [
       "automation",
+      "dailies",
+      "weeklies",
       "autoretainer",
       "postprocess",
+      "fc",
+      "buff",
       "verminion",
-      "cactpot"
+      "cactpot",
+      "chocobo"
     ],
     "CategoryTags": [
       "other"
     ],
     "IsHide": false,
     "InternalName": "VERMAXION",
-    "AssemblyVersion": "0.0.2.0",
+    "AssemblyVersion": "0.0.2.1",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/VERMAXION",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 1152,
     "LastUpdate": 1776417153,
-    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.2.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.2.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.2.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.2.1/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
+    "DownloadLinkTesting": "https://github.com/McVaxius/VERMAXION/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   }
 ]
