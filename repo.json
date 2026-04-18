@@ -287,17 +287,19 @@
     ],
     "IsHide": false,
     "InternalName": "MOGTOME",
-    "AssemblyVersion": "0.0.0.60",
+    "AssemblyVersion": "0.0.0.61",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/MOGTOME",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 1997,
     "LastUpdate": 1776253955,
-    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.60/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.60/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.61/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.0.0.61/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/MOGTOME/master/MOGTOME/images/icon.png",
+    "DownloadLinkTesting": "https://github.com/McVaxius/MOGTOME/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
@@ -364,5 +366,30 @@
     "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
     "DownloadLinkTesting": "https://github.com/McVaxius/VERMAXION/releases/latest/download/latest.zip",
     "LoadPriority": 0
-  }
+  },
+  {
+  "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json",
+  "Author": "DhogGPT",
+  "Name": "Coppelia",
+  "Punchline": "Healbot Coppelia is here to serve!  Healing from outside of party for n targets.",
+  "Description": "Healbot Coppelia is here to serve!  Healing from outside of party for n targets.",
+  "InternalName": "Coppelia",
+  "IconUrl": "https://raw.githubusercontent.com/McVaxius/Coppelia/refs/heads/master/Coppelia/images/icon.png",
+  "DownloadLinkInstall": "https://github.com/McVaxius/Coppelia/releases/latest/download/latest.zip",
+  "DownloadLinkUpdate": "https://github.com/McVaxius/Coppelia/releases/latest/download/latest.zip",
+  "DownloadLinkTesting": "https://github.com/McVaxius/Coppelia/releases/latest/download/latest.zip",
+  "RepoUrl": "https://github.com/McVaxius/Coppelia",
+  "AssemblyVersion": "1.0.0.0",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 14,
+  "Tags": [
+    "ffxiv",
+    "healbot",
+    "coppelia",
+    "dhog"
+  ],
+  "CategoryTags": [
+    "utility"
+  ]
+}
 ]
