@@ -259,16 +259,26 @@
     ],
     "IsHide": false,
     "InternalName": "LootGoblin",
-    "AssemblyVersion": "0.0.4.14",
+    "AssemblyVersion": "0.0.4.15",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 14,
     "DownloadCount": 1468,
     "LastUpdate": 1776792942,
-    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.4.14/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.4.14/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.4.15/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.0.4.15/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
+    "Dependencies": [
+      {
+        "InternalName": "Teleporter",
+        "Required": true,
+        "Reason": "LootGoblin uses Teleporter for /tp aetheryte travel."
+      }
+    ],
+    "RepoUrl": "https://github.com/McVaxius/LootGoblin",
+    "DownloadLinkTesting": "https://github.com/McVaxius/LootGoblin/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
