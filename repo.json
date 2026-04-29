@@ -142,7 +142,7 @@
     "Author": "DhogGPT",
     "Name": "Footballer",
     "Punchline": "Inspector Footybrand is here to make sure your feet are ok. Don't worry the inspector respects Lodestone privacy.",
-    "Description": "Footballer is a private privacy-respecting foot showcase plugin with a saved main-window krangle toggle, cached Lodestone face gating, preview-only barefoot mode.",
+    "Description": "Footballer is a private privacy-respecting foot showcase plugin with a saved main-window krangle toggle, cached Lodestone face gating, preview-only barefoot mode, and hidden debug research surfaces.",
     "Changelog": "",
     "Tags": [
       "ffxiv",
@@ -155,17 +155,18 @@
     ],
     "IsHide": false,
     "InternalName": "footballer",
-    "AssemblyVersion": "0.0.0.8",
+    "AssemblyVersion": "0.0.0.9",
     "IsTestingExclusive": false,
     "RepoUrl": "https://github.com/McVaxius/footballer",
     "ApplicableVersion": "any",
-    "DalamudApiLevel": 14,
+    "DalamudApiLevel": 15,
     "DownloadCount": 107,
     "LastUpdate": 1775747475,
-    "DownloadLinkInstall": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.8/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.8/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.9/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.9/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/footballer/main/footballer/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/footballer/main/footballer/images/icon.png",
+    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json"
   },
   {
     "Author": "DhogGPT",
