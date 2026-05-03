@@ -185,16 +185,19 @@
     ],
     "IsHide": false,
     "InternalName": "FrenRider",
-    "AssemblyVersion": "1.0.1.10",
+    "AssemblyVersion": "1.0.2.0",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadCount": 1683,
     "LastUpdate": 1777533597,
-    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.1.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.1.10/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.2.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.2.0/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
+    "RepoUrl": "https://github.com/McVaxius/FrenRider",
+    "DownloadLinkTesting": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
@@ -261,16 +264,36 @@
     ],
     "IsHide": false,
     "InternalName": "LootGoblin",
-    "AssemblyVersion": "0.1.4.2",
+    "AssemblyVersion": "0.1.4.3",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
     "DownloadCount": 1794,
     "LastUpdate": 1777723214,
-    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.1.4.2/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.1.4.2/latest.zip",
+    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.1.4.3/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.1.4.3/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
+    "Dependencies": [
+      {
+        "InternalName": "Lifestream",
+        "Required": true,
+        "Reason": "LootGoblin uses Lifestream for /li aetheryte travel."
+      },
+      {
+        "InternalName": "xadb",
+        "Required": false,
+        "Reason": "Needed if you want retainer and saddlebag retrieval."
+      },
+      {
+        "InternalName": "xaslave",
+        "Required": false,
+        "Reason": "Needed if you want retainer and saddlebag retrieval."
+      }
+    ],
+    "RepoUrl": "https://github.com/McVaxius/LootGoblin",
+    "DownloadLinkTesting": "https://github.com/McVaxius/LootGoblin/releases/latest/download/latest.zip",
+    "LoadPriority": 0
   },
   {
     "Author": "DhogGPT",
