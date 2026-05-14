@@ -21,13 +21,12 @@
     "RepoUrl": "https://github.com/McVaxius/ADS",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 544,
-    "LastUpdate": 1777804502,
+    "DownloadCount": 988,
+    "LastUpdate": 1778614879,
     "DownloadLinkInstall": "https://github.com/McVaxius/ADS/releases/download/v0.2.0.2/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ADS/releases/download/v0.2.0.2/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png",
-    "$schema": "https://raw.githubusercontent.com/goatcorp/Dalamud/master/Dalamud/Configuration/PluginManifest/pluginmanifest.schema.json"
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/ADS/main/ADS/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -48,7 +47,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 1217,
+    "DownloadCount": 1274,
     "LastUpdate": 1777533594,
     "DownloadLinkInstall": "https://github.com/McVaxius/ChocoboColourized/releases/download/v1.1.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/ChocoboColourized/releases/download/v1.1.0.3/latest.zip",
@@ -75,7 +74,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 633,
+    "DownloadCount": 692,
     "LastUpdate": 1777533607,
     "DownloadLinkInstall": "https://github.com/McVaxius/dheacon/releases/download/v1.0.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/dheacon/releases/download/v1.0.0.3/latest.zip",
@@ -103,7 +102,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 786,
+    "DownloadCount": 832,
     "LastUpdate": 1777533612,
     "DownloadLinkInstall": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.20/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/DhogGPT/releases/download/v1.0.0.20/latest.zip",
@@ -132,8 +131,8 @@
     "RepoUrl": "https://github.com/McVaxius/DPS",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 769,
-    "LastUpdate": 1777496634,
+    "DownloadCount": 887,
+    "LastUpdate": 1778046322,
     "DownloadLinkInstall": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.22/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/DPS/releases/download/v0.0.0.22/latest.zip",
     "SupportsProfiles": true,
@@ -163,7 +162,7 @@
     "RepoUrl": "https://github.com/McVaxius/footballer",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 148,
+    "DownloadCount": 194,
     "LastUpdate": 1777533610,
     "DownloadLinkInstall": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/footballer/releases/download/v0.0.0.11/latest.zip",
@@ -189,15 +188,12 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 1704,
-    "LastUpdate": 1777797118,
+    "DownloadCount": 2185,
+    "LastUpdate": 1778428634,
     "DownloadLinkInstall": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.2.14/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/FrenRider/releases/download/v1.0.2.14/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png",
-    "RepoUrl": "https://github.com/McVaxius/FrenRider",
-    "DownloadLinkTesting": "https://github.com/McVaxius/FrenRider/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/FrenRider/master/FrenRider/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -217,7 +213,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 1182,
+    "DownloadCount": 1235,
     "LastUpdate": 1777533597,
     "DownloadLinkInstall": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v1.0.0.3/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/HelloFellowHuman/releases/download/v1.0.0.3/latest.zip",
@@ -242,7 +238,7 @@
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 697,
+    "DownloadCount": 742,
     "LastUpdate": 1777533607,
     "DownloadLinkInstall": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.26/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/Krangler/releases/download/v0.0.0.26/latest.zip",
@@ -264,36 +260,16 @@
     ],
     "IsHide": false,
     "InternalName": "LootGoblin",
-    "AssemblyVersion": "0.3.0.12",
+    "AssemblyVersion": "0.3.0.10",
     "IsTestingExclusive": false,
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 1898,
-    "LastUpdate": 1777809635,
-    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.3.0.12/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.3.0.12/latest.zip",
+    "DownloadCount": 2654,
+    "LastUpdate": 1778629824,
+    "DownloadLinkInstall": "https://github.com/McVaxius/LootGoblin/releases/download/v0.3.0.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/McVaxius/LootGoblin/releases/download/v0.3.0.10/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png",
-    "Dependencies": [
-      {
-        "InternalName": "Lifestream",
-        "Required": true,
-        "Reason": "LootGoblin uses Lifestream for /li aetheryte travel."
-      },
-      {
-        "InternalName": "xadb",
-        "Required": false,
-        "Reason": "Needed if you want retainer and saddlebag retrieval."
-      },
-      {
-        "InternalName": "xaslave",
-        "Required": false,
-        "Reason": "Needed if you want retainer and saddlebag retrieval."
-      }
-    ],
-    "RepoUrl": "https://github.com/McVaxius/LootGoblin",
-    "DownloadLinkTesting": "https://github.com/McVaxius/LootGoblin/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/LootGoblin/master/LootGoblin/images/icon.png"
   },
   {
     "Author": "DhogGPT",
@@ -318,8 +294,8 @@
     "RepoUrl": "https://github.com/McVaxius/MOGTOME",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 2687,
-    "LastUpdate": 1777533628,
+    "DownloadCount": 2986,
+    "LastUpdate": 1778429006,
     "DownloadLinkInstall": "https://github.com/McVaxius/MOGTOME/releases/download/v0.2.0.7/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/MOGTOME/releases/download/v0.2.0.7/latest.zip",
     "SupportsProfiles": true,
@@ -349,8 +325,8 @@
     "RepoUrl": "https://github.com/McVaxius/TTSL",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 742,
-    "LastUpdate": 1777536336,
+    "DownloadCount": 825,
+    "LastUpdate": 1778218132,
     "DownloadLinkInstall": "https://github.com/McVaxius/TTSL/releases/download/v0.0.1.11/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/TTSL/releases/download/v0.0.1.11/latest.zip",
     "SupportsProfiles": true,
@@ -360,21 +336,16 @@
   },
   {
     "Author": "DhogGPT",
-    "Name": "VerMAXion",
-    "Punchline": "Automated weekly/daily tasks via AutoRetainer post-processing.",
-    "Description": "VerMAXion automates weekly and daily FFXIV tasks through AutoRetainer post-processing. FC buff refill, Verminion, Cactpot, Chocobo racing, and more. Use /vermaxion or /vmx to open.",
+    "Name": "Vermaxion",
+    "Punchline": "ARPostProcess automation for weekly/daily tasks.",
+    "Description": "Automates weekly and daily tasks triggered by AutoRetainer post-processing. Configurable per character: Verminion queue, Cactpot, Chocobo Racing, FC buff refill, and Henchman management.",
     "Changelog": "",
     "Tags": [
       "automation",
-      "dailies",
-      "weeklies",
       "autoretainer",
       "postprocess",
-      "fc",
-      "buff",
       "verminion",
-      "cactpot",
-      "chocobo"
+      "cactpot"
     ],
     "CategoryTags": [
       "other"
@@ -386,13 +357,11 @@
     "RepoUrl": "https://github.com/McVaxius/VERMAXION",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "DownloadCount": 1537,
-    "LastUpdate": 1777607919,
+    "DownloadCount": 1662,
+    "LastUpdate": 1777854502,
     "DownloadLinkInstall": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.2.14/latest.zip",
     "DownloadLinkUpdate": "https://github.com/McVaxius/VERMAXION/releases/download/v0.0.2.14/latest.zip",
     "SupportsProfiles": true,
-    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png",
-    "DownloadLinkTesting": "https://github.com/McVaxius/VERMAXION/releases/latest/download/latest.zip",
-    "LoadPriority": 0
+    "IconUrl": "https://raw.githubusercontent.com/McVaxius/VERMAXION/master/VERMAXION/images/icon.png"
   }
 ]
