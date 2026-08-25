@@ -1,0 +1,53 @@
+name: Sync Aethertek manifests
+
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Fetch and validate Aethertek manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --silent --show-error --location \
+            https://aethertek.io/x.json \
+            --output /tmp/aethertek-x.json
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          path = Path("/tmp/aethertek-x.json")
+          data = json.loads(path.read_text(encoding="utf-8"))
+          if not isinstance(data, list) or not data:
+              raise SystemExit("Aethertek x.json must be a nonempty JSON array")
+          if not any(
+              isinstance(entry, dict) and entry.get("InternalName") == "VERMAXION"
+              for entry in data
+          ):
+              raise SystemExit("Aethertek x.json does not contain VERMAXION")
+          PY
+          cp /tmp/aethertek-x.json pluginmaster.json
+          cp /tmp/aethertek-x.json repo.json
+
+      - name: Commit and push if changed
+        shell: bash
+        run: |
+          if git diff --quiet -- pluginmaster.json repo.json; then
+            echo "Aethertek manifests are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- pluginmaster.json repo.json
+          git commit -m "[API] Sync Aethertek manifests"
+          git push
